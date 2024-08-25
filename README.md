@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Muhammad Faruq's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hzqula&show_icons=true&text_color=36CCFC&ring_color=36CCFC&icon_color=FCC936&theme=default&rank_icon=percentile&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936#gh-light-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzqula&repo=fe-imemoraise&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936&show_icons=true&text_color=36CCFC&icon_color=FCC936)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzqula&layout=compact&text_color=36CCFC&title_color=36FC3E&bg_color=1E1E1E)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzqula&repo=inkptatif-new&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936&show_icons=true&text_color=36CCFC&icon_color=FCC936)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzqula&repo=inkptatif-api&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936&show_icons=true&text_color=36CCFC&icon_color=FCC936)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzqula&repo=inkptatif-app&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936&show_icons=true&text_color=36CCFC&icon_color=FCC936)](https://github.com/anuraghazra/github-readme-stats)
+[![Muhammad Faruq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hzqula&text_color=36CCFC&title_color=36FC3E&bg_color=1E1E1E)](https://github.com/anuraghazra/github-readme-stats)
