@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Muhammad Faruq's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hzqula&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Muhammad Faruq's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hzqula&show_icons=true&theme=default&rank_icon=percentile&bg_color=f1faee&title_color=081c15&border_color=081c15#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Muhammad Faruq's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hzqula&show_icons=true&text_color=36CCFC&ring_color=36CCFC&icon_color=FCC936&theme=default&rank_icon=percentile&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936#gh-light-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzqula&repo=fe-imemoraise&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936&show_icons=true&text_color=36CCFC&icon_color=FCC936)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzqula&repo=inkptatif-new&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936&show_icons=true&text_color=36CCFC&icon_color=FCC936)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzqula&repo=inkptatif-api&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936&show_icons=true&text_color=36CCFC&icon_color=FCC936)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzqula&repo=inkptatif-app&bg_color=1E1E1E&title_color=36FC3E&border_color=FCC936&show_icons=true&text_color=36CCFC&icon_color=FCC936)](https://github.com/anuraghazra/github-readme-stats)
