@@ -1,4 +1,4 @@
-## Hi there 👋
+## A student who was confused about choosing between focusing on graphic design or programming.
 
 <!--
 **hzqula/hzqula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Muhammad Faruq's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hzqula&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Muhammad Faruq's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hzqula&show_icons=true&theme=default&bg_color=D6E6F2&title_color=303942&border_color=303942#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Muhammad Faruq's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hzqula&show_icons=true&theme=default&rank_icon=percentile&bg_color=f1faee&title_color=081c15&border_color=081c15#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
