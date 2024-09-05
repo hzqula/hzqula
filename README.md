@@ -2,6 +2,7 @@
 ### A student who was confused about choosing between focusing on graphic design or programming.
 
 - 🎓 In 2022, I officially a student of Informatics Engineering at UIN Suska Riau, Pekanbaru.
+- 🌐 My portfolio site: https://hzqula.my.id
 - ✉ Get in touch: hzqoola@gmail.com
 
 
