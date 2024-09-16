@@ -19,8 +19,8 @@
 
 
 ---
-### 📊 Here's my WakaTime stat
-[![Muhammad Faruq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hzqula&text_color=36CCFC&title_color=36FC3E&bg_color=1E1E1E&border_color=FCC936&\compact_layout)](https://github.com/anuraghazra/github-readme-stats)
+### ⏰ Here's my WakaTime stat
+[![Muhammad Faruq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hzqula&text_color=36CCFC&title_color=36FC3E&bg_color=1E1E1E&border_color=FCC936\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![](https://github-profile-trophy.vercel.app/?username=hzqula&theme=matrix&no-frame=false)
 -->
